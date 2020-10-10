@@ -1,1 +1,3 @@
 
+doc:
+	make -C documentation
